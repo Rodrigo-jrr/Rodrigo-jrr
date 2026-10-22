@@ -88,8 +88,6 @@ A backend API project focused on product classification and NCM-related data.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-jrr&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-## <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigo-jrr&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
-
 </div> 
 
 ## Connect With Me
