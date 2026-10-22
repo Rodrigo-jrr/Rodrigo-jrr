@@ -33,7 +33,7 @@ I enjoy turning ideas into practical software, solving technical challenges, and
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,hibernate" alt="Backend Technologies"/>
 
 ### Frontend Development
 
